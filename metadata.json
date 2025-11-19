@@ -1,0 +1,5 @@
+{
+  "name": "AeroFlow",
+  "description": "An interactive 3D wind tunnel simulator that visualizes airflow pressure on STL models using real-time shaders and provides aerodynamic analysis via Google Gemini AI.",
+  "requestFramePermissions": []
+}
